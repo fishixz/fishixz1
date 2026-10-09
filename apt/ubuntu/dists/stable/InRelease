@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: FISHIXZ
+Label: FISHIXZ ubuntu
+Suite: stable
+Codename: stable
+Version: 1.0.0
+Architectures: amd64 arm64 armhf i386 ppc64el riscv64
+Components: main
+Description: Signed FISHIXZ packages for ubuntu
+Acquire-By-Hash: no
+Date: Fri, 09 Oct 2026 07:34:54 UTC
+SHA256:
+ 85346ecae88cb6622e6113a2a607564f82076d36b9f416209c6bc127fc53fa47          507 main/binary-amd64/Packages
+ f7219458888f8f74f2d298f53033e28275fb252618c3a133c29e0ad96468b8aa          386 main/binary-amd64/Packages.gz
+ 85346ecae88cb6622e6113a2a607564f82076d36b9f416209c6bc127fc53fa47          507 main/binary-arm64/Packages
+ f7219458888f8f74f2d298f53033e28275fb252618c3a133c29e0ad96468b8aa          386 main/binary-arm64/Packages.gz
+ 85346ecae88cb6622e6113a2a607564f82076d36b9f416209c6bc127fc53fa47          507 main/binary-armhf/Packages
+ f7219458888f8f74f2d298f53033e28275fb252618c3a133c29e0ad96468b8aa          386 main/binary-armhf/Packages.gz
+ 85346ecae88cb6622e6113a2a607564f82076d36b9f416209c6bc127fc53fa47          507 main/binary-i386/Packages
+ f7219458888f8f74f2d298f53033e28275fb252618c3a133c29e0ad96468b8aa          386 main/binary-i386/Packages.gz
+ 85346ecae88cb6622e6113a2a607564f82076d36b9f416209c6bc127fc53fa47          507 main/binary-ppc64el/Packages
+ f7219458888f8f74f2d298f53033e28275fb252618c3a133c29e0ad96468b8aa          386 main/binary-ppc64el/Packages.gz
+ 85346ecae88cb6622e6113a2a607564f82076d36b9f416209c6bc127fc53fa47          507 main/binary-riscv64/Packages
+ f7219458888f8f74f2d298f53033e28275fb252618c3a133c29e0ad96468b8aa          386 main/binary-riscv64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iI0EARYIADUWIQQgR2/ktz6S5qKtntoGj0tXiJReogUCasiZHhcccGFja2FnZXNA
+ZmlzaGl4ei5sb2NhbAAKCRAGj0tXiJReop7XAP0bw4zwom4Efh6wyiFYEsqZ/YUE
+WFMimYLrtc2fUmLasAD/bTvp4j3BOFvBGaQ5WBV2UPeOGSoTnEbdOcP1oSku3gs=
+=EtjP
+-----END PGP SIGNATURE-----

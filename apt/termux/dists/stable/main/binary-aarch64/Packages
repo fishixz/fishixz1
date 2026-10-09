@@ -1,0 +1,15 @@
+Package: fishixz
+Version: 1.0.0
+Architecture: all
+Maintainer: FISHIXZ Project <packages@fishixz.local>
+Depends: python
+Section: utils
+Priority: optional
+Homepage: https://github.com/fishixz/fishixz1
+Description: FISHIXZ interactive terminal for Termux
+ Local login, themed system dashboard, shortcuts, command runner and help.
+Filename: pool/main/fishixz_1.0.0_all.deb
+Size: 11432
+MD5sum: daf0e5523d112dc18763dfbe4c27b979
+SHA256: 9be3870de6c564c47f639a6de6e4ea5e3489e142cb65e450403e3108a3db0984
+

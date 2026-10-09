@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: FISHIXZ
+Label: FISHIXZ termux
+Suite: stable
+Codename: stable
+Version: 1.0.0
+Architectures: aarch64 arm x86_64 i686
+Components: main
+Description: Signed FISHIXZ packages for termux
+Acquire-By-Hash: no
+Date: Fri, 09 Oct 2026 07:34:54 UTC
+SHA256:
+ e4e18bcdc0eae86a1b4335651ae3c0c825960218d95f550ff98a2cd9a9e7cecd          496 main/binary-aarch64/Packages
+ abcfc124c94858327fa6718f074e0271fa99267db3be36f0a582dd23cf83dbfe          375 main/binary-aarch64/Packages.gz
+ e4e18bcdc0eae86a1b4335651ae3c0c825960218d95f550ff98a2cd9a9e7cecd          496 main/binary-arm/Packages
+ abcfc124c94858327fa6718f074e0271fa99267db3be36f0a582dd23cf83dbfe          375 main/binary-arm/Packages.gz
+ e4e18bcdc0eae86a1b4335651ae3c0c825960218d95f550ff98a2cd9a9e7cecd          496 main/binary-i686/Packages
+ abcfc124c94858327fa6718f074e0271fa99267db3be36f0a582dd23cf83dbfe          375 main/binary-i686/Packages.gz
+ e4e18bcdc0eae86a1b4335651ae3c0c825960218d95f550ff98a2cd9a9e7cecd          496 main/binary-x86_64/Packages
+ abcfc124c94858327fa6718f074e0271fa99267db3be36f0a582dd23cf83dbfe          375 main/binary-x86_64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iI0EARYIADUWIQQgR2/ktz6S5qKtntoGj0tXiJReogUCasiZHhcccGFja2FnZXNA
+ZmlzaGl4ei5sb2NhbAAKCRAGj0tXiJReoocTAP44YfaoEvzaz9x/G0bVPuNdO9/5
+HPdFRO0plnm2JyIHugEAk895U0075+3aqkN8VyKgN0/jlENshX6MYMy6m6FNrAA=
+=ZUxZ
+-----END PGP SIGNATURE-----

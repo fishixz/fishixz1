@@ -1,0 +1,15 @@
+Package: fishixz
+Version: 1.0.0
+Architecture: all
+Maintainer: FISHIXZ Project <packages@fishixz.local>
+Depends: python3 (>= 3.10)
+Section: utils
+Priority: optional
+Homepage: https://github.com/fishixz/fishixz1
+Description: FISHIXZ interactive terminal for Ubuntu
+ Local login, themed system dashboard, shortcuts, command runner and help.
+Filename: pool/main/fishixz_1.0.0_all.deb
+Size: 11392
+MD5sum: b86eb3b1e8a613818a2c055946d4785a
+SHA256: 7c34810e66aa2a25451168adba818551e37b8e6259d92d2a41b8cbf7eafd0a78
+
